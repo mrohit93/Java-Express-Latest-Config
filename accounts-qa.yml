@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to Accounts Service - QA"
+  contactDetails:
+    name: "QA Team"
+    email: "qa@bank.com"
+  onCallSupport:
+    - 4567
+    - 9999
