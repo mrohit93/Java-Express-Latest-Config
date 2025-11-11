@@ -1,12 +1,8 @@
-
- build:
-    version: "1.0.0"
-
+build:
+  version: "1.0.0"
 
 accounts:
   message: "Welcome to Accounts Service - DEV"
-
- 
 
   contactDetails:
     name: "Rohit - Developer"
