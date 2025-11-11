@@ -1,10 +1,13 @@
 accounts:
   message: "Welcome to Accounts Service - DEV"
+
   build:
-  version: "1.0.0"
+    version: "1.0.0"
+
   contactDetails:
     name: "Rohit - Developer"
     email: "rohit@bank.com"
+
   onCallSupport:
     - 12345
     - 67890
