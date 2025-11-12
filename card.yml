@@ -1,4 +1,6 @@
-accounts:
+build:
+  version: "1.0.0"
+cards:
   message: "Welcome to Card Service - QA"
   contactDetails:
     name: "QA Team"
