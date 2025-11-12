@@ -1,4 +1,8 @@
-accounts:
+
+build:
+  version: "2.0.0"
+
+loans:
   message: "Welcome to Loan Service - QA"
   contactDetails:
     name: "QA Team"
